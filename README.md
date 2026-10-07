@@ -1,6 +1,6 @@
 # R2S2R physical floor plan
 
-[View full-resolution floor plan](floorplan.png) · [Download editable drawing](floorplan.drawio) · [Blank floor plan](floorplan-blank.png)
+[Review PDF](output/pdf/floorplan-review.pdf) · [View full-resolution floor plan](floorplan.png) · [Download editable drawing](floorplan.drawio) · [Blank floor plan](floorplan-blank.png)
 
 ![Full floor plan](floorplan.png)
 
