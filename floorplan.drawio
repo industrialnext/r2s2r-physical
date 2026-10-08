@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" compressed="false" pages="2">
     <diagram id="26-stations-compact" name="16 stations - full floor">
-        <mxGraphModel dx="2913" dy="2270" grid="1" gridSize="12" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1320" pageHeight="2280" background="#FFFFFF" math="0" shadow="0">
+        <mxGraphModel dx="2420" dy="2270" grid="1" gridSize="12" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1320" pageHeight="2280" background="#FFFFFF" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="grid" parent="0" style="locked=0;" value="12 in grid / bold every 60 in"/>
@@ -1925,7 +1925,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="K4_U3iJq1d0J7bZvjT2I-7" parent="grid" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#37474F;strokeColor=#101B20;strokeWidth=2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;rotation=15;" value="45″&#xa;TV" vertex="1">
-                    <mxGeometry height="39.22089917060472" width="22.061755783465152" x="616.7901136064577" y="1456.9976241264237" as="geometry"/>
+                    <mxGeometry height="39.22089917060472" width="22.061755783465152" x="599.1501136064577" y="1446.7876241264237" as="geometry"/>
                 </mxCell>
                 <mxCell id="K4_U3iJq1d0J7bZvjT2I-43" edge="1" parent="grid" source="v10001" style="edgeStyle=none;rounded=0;html=0;endArrow=none;startArrow=none;strokeColor=#EDF2F4;strokeWidth=0.35;fontFamily=Helvetica;fontSize=15;fontColor=#EDF2F4;labelBackgroundColor=#FFFFFF;" target="K4_U3iJq1d0J7bZvjT2I-5" value="">
                     <mxGeometry relative="1" as="geometry">
