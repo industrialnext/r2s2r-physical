@@ -41,4 +41,4 @@ Anyone can propose changes through a pull request:
 3. Regenerate both PNGs with `./scripts/export-pngs.sh` and commit the drawing and PNGs together.
 4. Open a pull request from your fork to this repository's `main` branch.
 
-The `main` branch requires a pull request with one approving review. Direct pushes, force pushes, and branch deletion are blocked, including for repository administrators. New commits dismiss earlier approvals, and review conversations must be resolved before merging.
+The `main` branch requires a pull request, without an approving review. Direct pushes, force pushes, and branch deletion are blocked, including for repository administrators. Review conversations must be resolved before merging.
